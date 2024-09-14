@@ -1,6 +1,6 @@
 import customtkinter as ctk
 from CTkMessagebox import CTkMessagebox
-from bank_dbm import Database
+from bank_db import Database
 
 ctk.set_appearance_mode("dark")
 ctk.set_default_color_theme("green")
